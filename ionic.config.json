@@ -1,0 +1,10 @@
+{
+  "name": "A04App",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
